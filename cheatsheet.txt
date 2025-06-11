@@ -1,0 +1,5 @@
+#collection of cheatsheet for host / domain / ip  related
+
+1. host -a domain
+2. whois -h whois.cymru.com ip
+
