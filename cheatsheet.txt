@@ -2,4 +2,6 @@
 
 1. host -a domain
 2. whois -h whois.cymru.com ip
+3. dig domain ANY
+
 
